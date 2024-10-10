@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/mehmetaliozer/.nuget/packages/": {}
+    "/Users/egebukulmez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mehmetaliozer/Documents/garage/mywebapp/mywebapp.csproj",
+      "projectUniqueName": "/Users/egebukulmez/Desktop/mis203-w3-website/mywebapp/mywebapp.csproj",
       "projectName": "mywebapp",
-      "projectPath": "/Users/mehmetaliozer/Documents/garage/mywebapp/mywebapp.csproj",
-      "packagesPath": "/Users/mehmetaliozer/.nuget/packages/",
-      "outputPath": "/Users/mehmetaliozer/Documents/garage/mywebapp/obj/",
+      "projectPath": "/Users/egebukulmez/Desktop/mis203-w3-website/mywebapp/mywebapp.csproj",
+      "packagesPath": "/Users/egebukulmez/.nuget/packages/",
+      "outputPath": "/Users/egebukulmez/Desktop/mis203-w3-website/mywebapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mehmetaliozer/.nuget/NuGet/NuGet.Config"
+        "/Users/egebukulmez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
