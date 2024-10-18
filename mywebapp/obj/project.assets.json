@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/egebukulmez/Desktop/mis203-w3-website/mywebapp/mywebapp.csproj",
+      "projectUniqueName": "/Users/egebukulmez/Desktop/Software Development MIS203/mis203-w3-website/mywebapp/mywebapp.csproj",
       "projectName": "mywebapp",
-      "projectPath": "/Users/egebukulmez/Desktop/mis203-w3-website/mywebapp/mywebapp.csproj",
+      "projectPath": "/Users/egebukulmez/Desktop/Software Development MIS203/mis203-w3-website/mywebapp/mywebapp.csproj",
       "packagesPath": "/Users/egebukulmez/.nuget/packages/",
-      "outputPath": "/Users/egebukulmez/Desktop/mis203-w3-website/mywebapp/obj/",
+      "outputPath": "/Users/egebukulmez/Desktop/Software Development MIS203/mis203-w3-website/mywebapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/egebukulmez/.nuget/NuGet/NuGet.Config"
